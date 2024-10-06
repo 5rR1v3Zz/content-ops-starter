@@ -1,5 +1,5 @@
 ---
-title: ''
+title: SuBliMeXDesigns
 slug: /
 sections:
   - type: GenericSection
