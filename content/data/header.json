@@ -40,7 +40,7 @@
         },
         {
             "label": "Mi Cuenta",
-            "altText": "Dropdown",
+            "altText": "",
             "links": [
                 {
                     "label": "Dropdown item",
