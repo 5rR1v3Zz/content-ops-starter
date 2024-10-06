@@ -22,7 +22,7 @@
         },
         {
             "label": "Carrito",
-            "altText": "Blog",
+            "altText": "Cart",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
